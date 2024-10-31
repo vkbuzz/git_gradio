@@ -5,9 +5,9 @@ In this example, we will use gradio’s gr.ChatInterface with some real large la
 We'll start by using langchain on top of openai to build a general-purpose streaming chatbot application.
 
 These are the steps:
-  •	Install gradio using pip in PyCharm.
-  •	Install langchain using pip in PyCharm.
-  •	Create an OpenAI account, and get the API KEY.
-  •	Create a python file with the following code
+Install gradio using pip in PyCharm.
+Install langchain using pip in PyCharm.
+Create an OpenAI account, and get the API KEY.
+Create a python file with the following code
 
 
